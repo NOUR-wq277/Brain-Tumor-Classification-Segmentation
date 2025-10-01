@@ -1,9 +1,6 @@
-🧠 Brain Tumor Analysis & Segmentation App
+ 🧠 Brain Tumor Analysis & Segmentation App
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/600x300/1E40AF/FFFFFF%3Ftext%3DBrain%2BTumor%2BAnalysis%2BApp" alt="Application Screenshot">
-</p>
-Overview 
+
 
 This professional Streamlit application is designed to analyze Magnetic Resonance Imaging (MRI) scans for the detection and segmentation of brain tumors. It leverages a robust dual-model deep learning architecture to provide both qualitative (classification) and quantitative (segmentation) results.
 Key Features 
