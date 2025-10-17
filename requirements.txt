@@ -1,9 +1,11 @@
-opencv-python-headless
+streamlit==1.22.0
+opencv-python-headless==4.12.0.88
+tensorflow==2.17.0
+numpy
+pandas
+pillow
+plotly
 torch
 torchvision
-numpy
-pillow
-pandas
-streamlit
-plotly
 ultralytics
+imghdr-py
